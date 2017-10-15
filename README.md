@@ -2,7 +2,7 @@
 
 学习使用hive，hadoop日志清洗之后导入mysql
 
-主要工具：
+### 主要工具：
 
   IntelliJ Idea 2017
   
@@ -11,8 +11,8 @@
   Hive-2.1
   
   Mysql-5.1
-  
-实验主要流程：
+  
+### 实验主要流程：
 
   在本地机器（MacOX）的idea上编写java代码（主要是JDBC 操纵Hive、操纵Mysql）,远程操作虚拟机中的hadoop、hive、mysql。
 
